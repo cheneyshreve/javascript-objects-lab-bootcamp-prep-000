@@ -1,23 +1,23 @@
 
-function objects() {
+function recipesObject() {
   var recipes = new Object();
   return recipes
 }
 
 
-function updateObjectWithKeyAndValue(object, key, value){
-
-
-}
-
-function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
+function updateObjectWithKeyAndValue(obj, key, value){
+ obj
 
 }
 
-function deleteFromObjectByKey(object, key){
+function destructivelyUpdateObjectWithKeyAndValue(obj, key, value){
 
 }
 
-function destructivelyDeleteFromObjectByKey(object, key){
+function deleteFromObjectByKey(obj, key){
+
+}
+
+function destructivelyDeleteFromObjectByKey(obj, key){
 
 }

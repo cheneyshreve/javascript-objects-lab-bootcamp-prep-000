@@ -1,7 +1,7 @@
 
 
 function object() {
- recipes = new Object({});
+ recipes = { brownies: 'sugar'}
  return recipes
 }
 
@@ -11,7 +11,7 @@ function updateObjectWithKeyAndValue(object, key, value){
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
-  var object['key'] = value
+  var object[key] = value
   return object
 }
 

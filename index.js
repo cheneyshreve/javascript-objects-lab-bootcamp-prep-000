@@ -1,6 +1,6 @@
 
 function recipesObject() {
-  var obj = recipes{}
+  obj = recipes {}
   return obj
 }
 

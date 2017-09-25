@@ -1,8 +1,9 @@
 
-function recipesObject() {
- var recipes = new Object();
-}
+recipes = new Object()
 
+function obj() {
+ var recipes = {}
+}
 
 function updateObjectWithKeyAndValue(obj, key, value){
   Object.assign({}, obj, { [key]: value})

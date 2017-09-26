@@ -2,7 +2,6 @@
 
 function object() {
  recipes = new Object ({ [brownies]: 'sugar'});
- var obj = recipes
  return recipes
 }
 

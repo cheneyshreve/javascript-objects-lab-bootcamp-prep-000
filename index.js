@@ -2,7 +2,6 @@
 
 function recipesObject() {
   recipes = {}
-  Object.assign({},recipes)
   return recipes
 }
 

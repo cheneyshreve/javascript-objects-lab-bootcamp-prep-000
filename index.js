@@ -1,6 +1,6 @@
 
 
-function recipesObject() {
+function objects() {
   recipes = {}
   return recipes
 }

@@ -1,7 +1,7 @@
 
 
 function objects() {
-  var recipes = {}
+  recipes = Object.assign({})
   return recipes
 }
 

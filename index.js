@@ -1,8 +1,7 @@
 
 
 function object() {
- var recipes = new Object ({ brownies: 'sugar'});
- return recipes
+ return recipes = new Object ({ brownies: 'sugar'});
 }
 
 function updateObjectWithKeyAndValue(obj, key, value){

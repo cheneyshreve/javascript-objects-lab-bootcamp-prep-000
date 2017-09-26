@@ -1,7 +1,7 @@
 
 
 function object() {
- recipes = { brownies: 'sugar'}
+ var recipes = { brownies: 'sugar'}
  return recipes
 }
 

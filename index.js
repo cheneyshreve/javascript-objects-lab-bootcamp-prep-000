@@ -1,7 +1,9 @@
 
 
 function object() {
- recipes = new Object ({ [brownies]: 'sugar'});
+ recipes() {
+   obj = {}
+ }
  return recipes
 }
 

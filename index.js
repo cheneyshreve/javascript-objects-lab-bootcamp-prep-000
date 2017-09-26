@@ -2,7 +2,7 @@
 
 function objects() {
   var recipes = function() {
-    recipes = new Object();
+    var recipes = new Object();
   }
   return recipes
 }

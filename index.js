@@ -1,8 +1,8 @@
 
 
-function object() {
+function objects() {
  recipes() {
-   obj = {}
+   object = {}
  }
  return recipes
 }

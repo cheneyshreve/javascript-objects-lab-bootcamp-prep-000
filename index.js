@@ -1,7 +1,9 @@
 
 
 function objects() {
-  var recipes = new Object();
+  var recipes = function() {
+    recipes = new Object();
+  }
   return recipes
 }
 

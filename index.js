@@ -1,9 +1,6 @@
 
 
-function objects() {
-  recipes = {}
-  return recipes
-}
+recipes = {}
 
 function updateObjectWithKeyAndValue(obj, key, value){
   return Object.assign({}, obj, { [key]: value})

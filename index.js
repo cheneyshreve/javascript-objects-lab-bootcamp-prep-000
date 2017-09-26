@@ -2,9 +2,9 @@
 
 function objects() {
  recipes() {
-   object = new Object();
+   obj = new Object();
  }
- return recipes
+ return obj
 }
 
 function updateObjectWithKeyAndValue(obj, key, value){
